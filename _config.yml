@@ -6,9 +6,9 @@ baseurl:           "/kwon1148.github.io"
 url:               "http://kwon1148.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  
+github_username:   kwon1148
+facebook_username: 
 
 # Build settings
 markdown:          kramdown
